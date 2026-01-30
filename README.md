@@ -1,5 +1,11 @@
 # commission-2
 
+<!--
+
+made by zixcore on discord
+"link", "text", and "random" are to fill out 
+
+-->
 
 
 <div align="center">
